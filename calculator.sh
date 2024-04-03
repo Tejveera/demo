@@ -6,4 +6,4 @@ a*b=c
 
 **Division**
 
-a/b=c
+a*b=c
